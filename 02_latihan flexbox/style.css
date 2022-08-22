@@ -84,6 +84,9 @@ body {
   text-align: center;
   padding-bottom: 20px;
 }
+.content button {
+  cursor: pointer;
+}
 
 /* responsive */
 @media (min-width: 600px) {
